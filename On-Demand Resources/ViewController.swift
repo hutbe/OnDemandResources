@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    let tags: Set = ["burger", "cake", "croissant", "milk", "noodles"]
+    let tags: Set = ["burger", "cake", "croissant", "milk", "noodles", "Muffin"]
     
     let resourceManager = ResourceManager()
     
