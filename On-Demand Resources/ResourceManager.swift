@@ -3,7 +3,7 @@
 //  On-Demand Resources
 //
 //  Created by Hut on 2020/12/18.
-//  Copyright © 2020 stoull. All rights reserved.
+//  Copyright © 2020 Stoull.cn, All rights reserved.
 //
 
 import Foundation
