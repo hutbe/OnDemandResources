@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     
     let tags: Set = ["burger", "cake", "croissant", "milk", "noodles", "Muffin"]
     
+    let stoull_tags: Set = []
+    
     let resourceManager = ResourceManager()
     
     
