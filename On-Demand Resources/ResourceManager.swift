@@ -58,6 +58,8 @@ class ResourceManager: NSObject {
         
         print("UInt8 is: \(x), UInt16 is: \(y)")
         
+        print("Here is the master")
+        
         bytesPointer.deallocate()
     }
     
